@@ -86,6 +86,9 @@ Functionality:
 
 - Output: Provides a list of customers with their assigned income-spending category.
 
+#### 3. Database creator and sample data generator (dataGeneration notebook)
+Purpose: Initialize the database on databricks and create sample data to use for modelling.
+
 #### Technologies Used
 - Databricks: The unified analytics platform for running Spark workloads.
 
