@@ -1,4 +1,3 @@
-# aletha-project
 ## Databricks RAG Model Router and Specialized ML Models 
 
 This repository (or Databricks workspace setup) contains a Retrieval Augmented Generation (RAG) model designed to intelligently route user queries to specialized machine learning models or a general-purpose Large Language Model (LLM) based on the intent of the query.
